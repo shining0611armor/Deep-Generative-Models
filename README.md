@@ -75,6 +75,17 @@ By the end of this course, students will be able to:
 ## 📚 Academic Integrity  
 All work submitted must be your own. Discussions and collaborations are encouraged for conceptual understanding, but any code or write-up must be written individually unless explicitly allowed.  
 
+## 📫 Contact
+Feel free to reach out if you have any questions or suggestions:
+- **Email**: mehrant.0611@gmail.com
+- **GitHub**: [shining0611armor](https://github.com/shining0611armor)
+
+
+
+Happy Learning! 😊
+
+
+
 ---
 
 ## 🔖 Citation  
@@ -84,11 +95,3 @@ Deep Generative Models (DGM), Dr. B. Nasihatkon, K. N. Toosi University of Techn
 ---
 
 
-## 📫 Contact
-Feel free to reach out if you have any questions or suggestions:
-- **Email**: mehrant.0611@gmail.com
-- **GitHub**: [shining0611armor](https://github.com/shining0611armor)
-
-
-
-Happy Learning! 😊
