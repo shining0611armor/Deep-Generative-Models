@@ -2,7 +2,7 @@
 **K. N. Toosi University of Technology**  
 **Instructor**: Dr. B. Nasihatkon  
 **Course Level**: Master’s & PhD  
-**Head Teaching Assistant**: Mehran Tamjidi  
+**Head Teaching Assistant and Designer**: Mehran Tamjidi  
 
 ---
 
@@ -81,3 +81,14 @@ All work submitted must be your own. Discussions and collaborations are encourag
 If you find the course material useful for academic or educational purposes, please cite the course as:  
 ```scss
 Deep Generative Models (DGM), Dr. B. Nasihatkon, K. N. Toosi University of Technology, Spring 1404 (2025).
+
+
+
+## 📫 Contact
+Feel free to reach out if you have any questions or suggestions:
+- **Email**: mehrant.0611@gmail.com
+- **GitHub**: [shining0611armor](https://github.com/shining0611armor)
+
+---
+
+Happy Learning! 😊
