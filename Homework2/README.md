@@ -19,10 +19,7 @@ The assignment focuses on implementing a generative model using Bayesian Network
   Experimenting with 3-connected, 8-connected, and 15-connected graphs to analyze performance differences.
 
 - 📊 **Conditional Probability Distributions (CPDs)**  
-  Modeling each pixel’s CPD using a first-order linear sigmoid model with shared parameters:  
-  \[
-  P(X_i = 1 \mid \text{parents}) = \sigma(w_0 + w_1 X_{\text{left}} + w_2 X_{\text{top}} + w_3 X_{\text{top-left}})
-  \]
+  Modeling each pixel’s CPD using a first-order linear sigmoid model with shared parameters
 
 > 🛠️ Deliverables include well-documented Python code and generated digit samples under various experimental conditions.
 
