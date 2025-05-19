@@ -32,7 +32,7 @@ Implement generative models using **Bayesian Networks**:
 - 🖼️ **Binary Persian Digit Dataset** – Preprocessing and format handling.  
 - 🕸️ **Bayesian Network Construction** – Pixel-wise CPDs using 3-, 8-, and 15-connected structures.  
 - 📊 **Linear Sigmoid CPDs** – Shared parameterization across the image grid.  
-- 💻 **Deliverables** – Python implementations with well-documented code and generated digit samples.  
+- 💻 **Deliverables** – PyTorch implementations with well-documented code and generated digit samples.  
 
 ---
 
