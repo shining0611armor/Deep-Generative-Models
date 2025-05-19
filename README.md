@@ -92,6 +92,5 @@ Happy Learning! 😊
 If you find the course material useful for academic or educational purposes, please cite the course as:  
 ```scss
 Deep Generative Models (DGM), Dr. B. Nasihatkon, K. N. Toosi University of Technology, Spring 1404 (2025).
----
 
 
