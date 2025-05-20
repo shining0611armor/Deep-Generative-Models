@@ -4,7 +4,7 @@
 **Course Level**: Master’s & PhD  
 **Head Teaching Assistant and Designer**: Mehran Tamjidi  
  
----
+--- 
 
 ## 📘 Course Overview  
 Welcome to the official repository for the graduate-level course **Deep Generative Models (DGM)**, offered in **Spring 1404 (2025)** at **K. N. Toosi University of Technology**. This course explores the mathematical foundations and modern deep learning techniques underlying generative modeling, with a strong emphasis on probabilistic reasoning, graphical models, and state-of-the-art architectures for image and data generation.
