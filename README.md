@@ -54,6 +54,18 @@ Dive into latent-variable generative models and 3D data processing:
 
 ---
 
+### 🔋 Homework 5 – Energy-Based Models, JEM++, DVAEs & GANs  
+Explore advanced generative modeling paradigms through deep energy formulations, discrete representations, and adversarial training:
+
+- ⚡ **Energy-Based Models (EBMs)** – Train scalar-valued networks `E(x)` and `E(x, y)` using Stochastic Langevin Dynamics and contrastive divergence. Compare unconditional and class-conditional sampling on CIFAR-10 and MNIST.  
+- 🔁 **Replay Buffer & Noise Scheduling** – Investigate initialization strategies (random vs. replay buffer) and noise annealing using exponential schedules.  
+- 🔐 **JEM & JEM++** – Turn a classifier into a joint energy model. Use a mix of cross-entropy and generative losses with SGLD. JEM++ adds GMM-based initialization and Proximal SGLD for improved sampling stability.  
+- 🔢 **Discrete Variational Autoencoders (DVAEs)** – Quantize latent space using vector quantization, apply KMeans clustering, and analyze using silhouette scores, confusion matrices, and t-SNE plots.  
+- 🇮🇷 **GANs for Persian Digits** – Train and compare vanilla GAN and Wasserstein GAN (WGAN) on binary Persian digits. Assess image quality, loss convergence, and sample fidelity.
+
+Each section is implemented using PyTorch and includes visualizations, quantitative evaluations, and reproducible experiment code.
+
+---
 ## 🛠️ Technologies & Tools  
 - Python 3.10+  
 - PyTorch  
@@ -68,7 +80,8 @@ By the end of this course, students will be able to:
 - Understand and apply the probabilistic foundations of generative modeling.  
 - Design and implement Bayesian networks and variational inference techniques.  
 - Construct autoregressive models for structured data generation.  
-- Utilize normalizing flows for high-quality image synthesis and latent space exploration.  
+- Utilize normalizing flows for high-quality image synthesis and latent space exploration.
+- Apply energy-based modeling and adversarial frameworks for advanced generation tasks.  
 
 ---
 
