@@ -19,9 +19,6 @@ The course is aimed at Master’s and PhD students and focuses on state-of-the-a
   - Random noise initialization
   - Replay buffer with 95% reused and 5% random samples
 - Implementation of a **noise schedule**:  
-  \[
-  \sigma_t = \sigma_{start} \left(\frac{\sigma_{end}}{\sigma_{start}}\right)^{\frac{t}{T}}
-  \]
 - Class-conditional EBM using `E(x, y)` on MNIST
 - Evaluation via convergence behavior and quality of generated images
 
